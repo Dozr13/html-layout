@@ -5,15 +5,15 @@ body{
 .top-bar{
   background-color: lightgray;
   width: 100%;
-  height: 15vh;
-  padding-top: 10px;
+  height: 13vh;
+  padding: 25px;
 }
 
 .blue-top-box{
-  width: 125px;
-  height: 125px;
+  width: 75px;
+  height: 75px;
   background-color: rgb(104, 121, 197);
-  margin-left: 35px;
+  box-sizing: border-box;
 }
 
 .message{
@@ -25,23 +25,23 @@ body{
 .blue-bar{
   background-color: rgb(92, 92, 226);
   width: 100%;
-  height: 15vh;
+  height: 18vh;
 }
 
 .teal-bar{
   background-color: rgb(58, 218, 218);
   width: 100%;
-  height: 15vh;
+  height: 18vh;
 }
 
 .green-bar{
   background-color: lightgreen;
   width: 100%;
-  height: 15vh;
+  height: 18vh;
 }
 
 .yellow-bar{
   background-color: yellow;
   width: 100%;
-  height: 15vh;
+  height: 18vh;
 }
